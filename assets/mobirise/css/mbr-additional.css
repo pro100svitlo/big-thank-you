@@ -1202,15 +1202,15 @@ a {
 .cid-t2eqQzKHKR {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #9fdbf8;
+  background-color: #e8e8e8;
 }
 .cid-t2erZIeHN3 {
   padding-top: 3rem;
   padding-bottom: 6rem;
-  background-color: #ffefab;
+  background-color: #fafafa;
 }
 .cid-t2erZIeHN3 .card-wrapper {
-  background: #4da4f7;
+  background: #bbbbbb;
   border-radius: 4px;
 }
 @media (max-width: 767px) {
@@ -1295,8 +1295,8 @@ a {
   color: #000000;
 }
 .cid-t2ewtPUAdY {
-  padding-top: 45px;
-  padding-bottom: 60px;
+  padding-top: 60px;
+  padding-bottom: 75px;
   background-color: #232323;
   overflow: hidden;
 }
