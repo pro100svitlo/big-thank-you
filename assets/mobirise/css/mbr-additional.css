@@ -1294,29 +1294,6 @@ a {
   background-color: #ffffff;
   color: #000000;
 }
-.cid-t2evjBQVjr {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-t2evjBQVjr ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 2.5rem;
-}
-.cid-t2evjBQVjr li {
-  position: relative;
-  margin-bottom: 1rem;
-}
-.cid-t2evjBQVjr ul li::before {
-  position: absolute;
-  left: -1.6rem;
-  content: "\2022";
-  color: #6592e6;
-  font-weight: bold;
-  font-size: 2rem;
-  width: 1.6rem;
-}
 .cid-t2ewtPUAdY {
   padding-top: 45px;
   padding-bottom: 60px;
