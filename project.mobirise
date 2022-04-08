@@ -58,12 +58,13 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Велике ДЯКУЮ",
+        "title": "Велике \"ДЯКУЮ!\" або Велике прибирання ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-7.jpeg"
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-8.jpeg"
       },
       "components": [
         {
