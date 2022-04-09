@@ -65,12 +65,12 @@
       "settings": {
         "main": true,
         "title": "Велике \"ДЯКУЮ!\" або Велике прибирання ",
-        "meta_descr": "Еко-акція українців. Долучайтеся і висловіть своє \"Дякую\" 🙏🇺🇦❤️",
+        "meta_descr": "Еко-акція українців. Висловіть своє \"Дякую\" 🙏🇺🇦❤️",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-3.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-8.jpeg"
       },
       "components": [
         {
