@@ -1231,6 +1231,24 @@ a {
   padding-bottom: 3rem;
   background-color: #e8e8e8;
 }
+.cid-t4jzMTO16n {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-t4jzMTO16n .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t4jzMTO16n img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t4jzMTO16n .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-t2euOzKBz9 {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1288,11 +1306,6 @@ a {
 .cid-t2euOzKBz9 .icons-menu .soc-item .mbr-iconfont:hover {
   background-color: #ffffff;
   color: #000000;
-}
-.cid-t45VSWQfOc {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
 }
 .cid-t2jQBQqrSI {
   padding-top: 0rem;
